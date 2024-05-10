@@ -30,4 +30,4 @@ This is a Python script that tracks the price of a product on Amazon and sends a
 ## Save the file and run it using the following command:
 1. python main.py
 #
-Once the script is running, it will fetch the price of the specified product from Amazon at regular intervals. If the price drops below the specified threshold, it will send an email alert to the specified email address.
+Once the script is running, it will fetch the price of the specified product from Amazon at regular intervals. If the price drops below the specified threshold, it will send an email alert to the specified email address..
